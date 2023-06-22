@@ -1,19 +1,104 @@
 project:
   type: website
+  output-dir: _site
+  preview:
+    port: 4200
+    browser: false
 
 website:
-  title: "dataskill"
+  title: "Estasys"
+  open-graph:
+    locale: id_ID
+    site-name: Estasys - Belajar data science
+    description: |
+      Estasys (Efficience Statistical and Analysis) adalah catatan tentang data
+       science terkait apa yang sudah penulis pelajari secara mandiri dari
+       berbagai referensi seperti buku, e-course, webinar, dan bootcamp.
+  page-navigation: true
+  twitter-card: true
+  favicon: favicon.svg
+  repo-url: https://github.com/estasys/estasys
+  repo-actions: [edit, issue]
+  page-footer:
+    left: |
+      © 2023
+      <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
+    center:
+      - text: "Profil"
+        href: profil.qmd
+      - text: "Lisensi"
+        href: lisensi.qmd
+    right:
+      - icon: github
+        href: https://github.com/estasys
+        aria-label: GitHub
+
   navbar:
+    background: dark
+    logo: logo.svg
+    logo-alt: "Estasys"
+    title: false
+    collapse-below: lg
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Pembukaan
+        href: index.qmd
+      - text: Python
+        href: python.qmd
+      - text: MySQL
+        href: mysql.qmd
+
+  sidebar:
+    - id: "start"
+      title: "Persiapan"
+      style: "docked"
+      collapse-level: 2
+      align: left
+      contents:
+        - text: Pendahuluan
+          href: index.qmd
+        - section: "Persiapan teknis"
+          contents:
+          - spesifikasi-komputer.qmd
+          - bahasa-pemrograman.qmd
+          - perangkat-lunak-yang-dibutuhkan.qmd
+          - memilih-teks-editor.qmd
+        - section: "Strategi pembelajaran"
+          contents:
+          - manajemen-waktu.qmd
+          - motivasi-belajar.qmd
+          - bahasa-internasional.qmd
+
+    - id: "python"
+      title: "Python"
+      style: "docked"
+      collapse-level: 2
+      align: left
+      contents:
+        - text: Pendahuluan
+          href: python.qmd
+        - section: "Dasar Python"
+          contents:
+          - python-1.qmd
+          - python-2.qmd
+
+    - id: "mysql"
+      title: "MySQL"
+      style: "docked"
+      collapse-level: 2
+      contents:
+        - text: Pendahuluan
+          href: mysql.qmd
+        - section: "Dasar MySQL"
+          contents:
+          - mysql-1.qmd
+          - mysql-2.qmd
 
 format:
   html:
-    theme: cosmo
+    theme:
+      dark: darkly
+      light: flatly
     css: styles.css
     toc: true
 
 editor: visual
-
