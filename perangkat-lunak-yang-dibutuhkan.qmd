@@ -1,0 +1,9 @@
+---
+title: "Perangkat lunak yang dibutuhkan"
+---
+
+About this site
+
+```{r}
+1 + 1
+```

@@ -1,0 +1,9 @@
+---
+title: "Manajemen waktu"
+---
+
+About this site
+
+```{r}
+1 + 1
+```

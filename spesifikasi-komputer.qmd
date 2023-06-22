@@ -1,0 +1,34 @@
+---
+title: "Spesifikasi komputer"
+---
+
+Menjadi seorang programmer penting untuk memiliki komputer atau laptop untuk menunjang kebutuhan mengoding. Dengan spesifikasi laptop yang mumpuni akan mempercepat proses kinerja perangkat lunak.
+
+Beberapa spesifikasi komputer yang penulis sarankan yaitu:
+
+## Prosesor
+
+- AMD Ryzen 5 5600 G atau AMD Ryzen 7 5700 G.
+- Intel® Core™ i5 atau Core i7 generasi 10 atau generasi 11.
+
+Penulis menyarankan untuk mendukung AMD karena lebih open source dan mendukung di kernel linux terbaru (6.x).
+
+## Memori
+
+Kebutuhan dengan RAM dibawah 4GB tidak akan mendukung kinerja pekerjaan dengan baik, terlebih lagi setiap perangkat lunak membutuhkan memori yang cukup besar. Agar bekerja dengan normal dibutuhkan RAM minimal **8GB (standar), 16GB (disarankan)** atau diatasnya lebih baik.
+
+Cek juga apakah dengan menggunakan RAM dengan ukuran tersebut didukung oleh prosesornya yang digunakan.
+
+## Storage
+
+Kebutuhan penyimpanan disk menjadi salah satu kebutuhan yang harus dipenuhi. SSD merupakan salah satu spesifikasi standar pada laptop atau komputer _programming_.
+
+- SSD minimal 120GB, disarankan 256GB atau diatasnya.
+- HDD sebagai opsional, 500GB atau 1TB.
+
+## Monitor
+
+Programmer pada umumnya lebih banyak waktu didepan layar monitor, agar memiliki pengalaman pandangan yang nyaman diperlukan layar monitor yang ideal.
+
+- Spesifikasi minimal Full HD 1920x1080 (1080p).
+- Ukuran standar 15 inchi.
