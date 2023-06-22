@@ -1,11 +1,22 @@
 ---
-title: "dataskill"
+title: "Belajar data science"
 ---
 
-This is a Quarto website.
+## Apa itu Estasys?
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Estasys *(Efficience Statistical and Analysis)* adalah catatan rangkuman tentang data science terkait apa yang sudah [penulis] pelajari secara mandiri dari berbagai referensi seperti buku, e-course, webinar, dan bootcamp. Selain itu, estasys akan difokuskan untuk selalu menggunakan perangkat lunak yang open source agar lebih aman dan mudah didapatkan.
 
-```{r}
-1 + 1
-```
+## Tujuan penulisan?
+
+Sebenarnya tujuan dari dibuatnya website estasys ini untuk melatih dan mempertajam muscle memori otak agar selain mendapatkan referensi dari buku dan video ada cara lain untuk menerapkan apa yang sudah dipelajari sebelumnya, yaitu dengan menulis ulang.
+Semoga dengan semakin banyak hal yang ditulis semakin ingat apa yang sudah dipelajari.
+
+Penulis juga tertarik mencari kurikulum seoptimal mungkin untuk mempelajari bahasa pemrograman khususnya dalam bidang data science dasar dengan mudah untuk pemula.
+Terkadang ketika membaca referensi dan literatur ada urutan bab yang kurang pas, atau timing untuk mempelajari suatu yang tingkat lanjut semestinya diletakkan setelah mempelajari hal dasar terlebih dahulu sebagai rujukannya.
+Terkesan membingungkan untuk pemula jika ada bagian tingkatan lanjut yang diselipkan di bagian awal.
+
+## Harapan penulis?
+
+Semoga dengan adanya referensi ini, pemula yang baru belajar bahasa pemrograman akan terbantu dengan apa yang telah dituliskan.
+
+[penulis]: https://hervyqa.id
