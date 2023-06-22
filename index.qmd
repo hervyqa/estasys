@@ -2,13 +2,13 @@
 title: "Belajar data science"
 ---
 
-## Apa itu Estasys?
+## Apa itu EStaSys?
 
-Estasys *(Efficience Statistical and Analysis)* adalah catatan rangkuman tentang data science terkait apa yang sudah [penulis] pelajari secara mandiri dari berbagai referensi seperti buku, e-course, webinar, dan bootcamp. Selain itu, estasys akan difokuskan untuk selalu menggunakan perangkat lunak yang open source agar lebih aman dan mudah didapatkan.
+EStaSys *(Efficience Statistical and Analysis)* adalah catatan rangkuman tentang data science terkait apa yang sudah [penulis] pelajari secara mandiri dari berbagai referensi seperti buku, e-course, webinar, dan bootcamp. Selain itu, EStaSys akan difokuskan untuk selalu menggunakan perangkat lunak yang open source agar lebih aman dan mudah didapatkan.
 
 ## Tujuan penulisan?
 
-Sebenarnya tujuan dari dibuatnya website estasys ini untuk melatih dan mempertajam muscle memori otak agar selain mendapatkan referensi dari buku dan video ada cara lain untuk menerapkan apa yang sudah dipelajari sebelumnya, yaitu dengan menulis ulang.
+Sebenarnya tujuan dari dibuatnya website EStaSys ini untuk melatih dan mempertajam muscle memori otak agar selain mendapatkan referensi dari buku dan video ada cara lain untuk menerapkan apa yang sudah dipelajari sebelumnya, yaitu dengan menulis ulang.
 Semoga dengan semakin banyak hal yang ditulis semakin ingat apa yang sudah dipelajari.
 
 Penulis juga tertarik mencari kurikulum seoptimal mungkin untuk mempelajari bahasa pemrograman khususnya dalam bidang data science dasar dengan mudah untuk pemula.

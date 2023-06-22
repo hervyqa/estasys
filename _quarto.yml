@@ -6,12 +6,12 @@ project:
     browser: false
 
 website:
-  title: "Estasys"
+  title: "EStaSys"
   open-graph:
     locale: id_ID
-    site-name: Estasys - Belajar data science
+    site-name: EStaSys - Belajar data science
     description: |
-      Estasys (Efficience Statistical and Analysis) adalah catatan tentang data
+      EStaSys (Efficience Statistical and Analysis) adalah catatan tentang data
        science terkait apa yang sudah penulis pelajari secara mandiri dari
        berbagai referensi seperti buku, e-course, webinar, dan bootcamp.
   page-navigation: true
@@ -36,7 +36,7 @@ website:
   navbar:
     background: dark
     logo: logo.svg
-    logo-alt: "Estasys"
+    logo-alt: "EStaSys"
     title: false
     collapse-below: lg
     left:
