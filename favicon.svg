@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="144"
+   height="144"
+   version="1.0"
+   viewBox="0 0 108 108"
+   id="svg8"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="favicon.png"
+   inkscape:export-xdpi="720"
+   inkscape:export-ydpi="720"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.3102925"
+     inkscape:cx="86.699287"
+     inkscape:cy="77.334556"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <circle
+     style="fill:#0a8451;fill-opacity:1;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+     id="path544"
+     cx="54"
+     cy="54"
+     r="54" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:42.0771px;line-height:0;font-family:Inter;-inkscape-font-specification:'Inter, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:2.31369px;text-anchor:middle;display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+     x="53.447128"
+     y="69.278343"
+     id="text396"><tspan
+       sodipodi:role="line"
+       id="tspan394"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:42.0771px;font-family:Inter;-inkscape-font-specification:'Inter, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:15"
+       x="54.603973"
+       y="69.278343">E</tspan></text>
+  <path
+     style="font-weight:600;font-size:89.4294px;line-height:0;font-family:Inter;-inkscape-font-specification:'Inter, Semi-Bold';letter-spacing:4.91745px;text-anchor:middle;fill:#19f6ed;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
+     d="M 45.69873,58.867676 H 72.525879 V 48.991699 H 56.838458 c -8.353624,0 -11.139728,9.875977 -11.139728,9.875977 z"
+     id="path476"
+     sodipodi:nodetypes="cccsc" />
+  <path
+     style="font-weight:600;font-size:89.4294px;line-height:0;font-family:Inter;-inkscape-font-specification:'Inter, Semi-Bold';letter-spacing:4.91745px;text-anchor:middle;fill:#ffffff;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     d="M 32.415527,21.458496 V 86.497559 H 74.970703 V 76.620117 H 44.19873 V 58.867676 48.991699 31.334473 h 30.518555 v -9.875977 z"
+     id="path467" />
+</svg>
