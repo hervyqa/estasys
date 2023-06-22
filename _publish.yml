@@ -1,4 +1,4 @@
 - source: project
   netlify:
-    - id: "cffa0134-b1a8-4b04-bf56-adface515ab5"
-      url: "https://estasys.netlify.app"
+    - id: cffa0134-b1a8-4b04-bf56-adface515ab5
+      url: 'https://estasys.netlify.app'
