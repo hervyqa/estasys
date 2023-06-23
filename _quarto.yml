@@ -61,7 +61,7 @@ website:
           - spesifikasi-komputer.qmd
           - bahasa-pemrograman.qmd
           - sistem-operasi.qmd
-          - integrated-development-editor.qmd
+          - ide-software.qmd
           - teks-editor.qmd
           - alternatif-console.qmd
         - section: "Strategi pembelajaran"
