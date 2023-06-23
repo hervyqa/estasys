@@ -1,12 +1,12 @@
 ---
-title: "Teks editor"
+title: "Text Editor"
 ---
 
-## Pengertian teks editor
+## Pengertian text editor
 
-## Jenis teks editor
+## Jenis text editor
 
-Teks editor berbasis GUI *(Graphical User Interface)* yang minimalis:
+Texs editor berbasis GUI *(Graphical User Interface)* yang minimalis:
 
 * notepadqq
 
@@ -22,4 +22,4 @@ CLI *(Command Line Interface)* editor
 * neovim
 * vim
 
-## Memilih teks editor
+## Memilih text editor
