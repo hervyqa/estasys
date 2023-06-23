@@ -60,8 +60,10 @@ website:
           contents:
           - spesifikasi-komputer.qmd
           - bahasa-pemrograman.qmd
-          - perangkat-lunak-yang-dibutuhkan.qmd
-          - memilih-teks-editor.qmd
+          - sistem-operasi.qmd
+          - integrated-development-editor.qmd
+          - teks-editor.qmd
+          - alternatif-console.qmd
         - section: "Strategi pembelajaran"
           contents:
           - manajemen-waktu.qmd
