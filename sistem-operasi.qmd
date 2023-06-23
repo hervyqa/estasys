@@ -1,5 +1,5 @@
 ---
-  title: "Sistem operasi"
+  title: "Sistem Operasi"
 ---
 
 ## Pengertian sistem operasi
