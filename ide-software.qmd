@@ -1,8 +1,10 @@
 ---
-title: "IDE *(Integrated Development Editor)*"
+title: "Integrated Development Editor (IDE)"
 ---
-  
+
 ## Pengertian *IDE*
+
+IDE *(Integrated Development Editor)*
 
 ## Jenis *IDE*
 
