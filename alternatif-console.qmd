@@ -1,0 +1,10 @@
+---
+title: "Alternatif console"
+---
+
+## Pengertian *console*
+
+## Jenis *console*
+
+* ipython
+* radian

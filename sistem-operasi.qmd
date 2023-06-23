@@ -1,0 +1,13 @@
+---
+  title: "Sistem operasi"
+---
+
+## Pengertian sistem operasi
+
+## Jenis sistem operasi
+
+* GNU/Linux
+* macOS
+* Windows
+
+## Tips memilih sistem operasi

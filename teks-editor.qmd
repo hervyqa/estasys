@@ -1,0 +1,25 @@
+---
+title: "Teks editor"
+---
+
+## Pengertian teks editor
+
+## Jenis teks editor
+
+Teks editor berbasis GUI *(Graphical User Interface)* yang minimalis:
+
+* notepadqq
+
+Berdasarkan lingkungan desktop *(Desktop Environment)*
+
+* gedit
+* kate
+* mousepad
+
+CLI *(Command Line Interface)* editor
+
+* helix
+* neovim
+* vim
+
+## Memilih teks editor

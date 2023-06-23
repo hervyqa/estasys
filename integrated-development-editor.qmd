@@ -1,0 +1,20 @@
+---
+title: "IDE *(Integrated Development Editor)*"
+---
+  
+## Pengertian *IDE*
+
+## Jenis *IDE*
+
+*IDE* berbasis GUI *(Graphical User Interface)* dengan spesifik bahasa pemrograman:
+  
+* rstudio
+* spyder
+
+*IDE* berbasis GUI *(Graphical User Interface)* dengan tujuan umum:
+  
+* vscode
+* vscodium
+* geany
+
+## Memilih *IDE*
