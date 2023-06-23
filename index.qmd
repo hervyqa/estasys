@@ -1,5 +1,5 @@
 ---
-title: "Pendahuluan"
+title: "Belajar data science"
 ---
 
 ## Apa itu EStaSys?
