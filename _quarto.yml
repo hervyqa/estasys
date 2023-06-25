@@ -44,8 +44,16 @@ website:
         href: index.qmd
       - text: Python
         href: python.qmd
-      - text: MySQL
-        href: mysql.qmd
+      - text: R
+        href: r.qmd
+      - text: Julia
+        href: julia.qmd
+      - text: SQL
+        href: sql.qmd
+      - text: Scala
+        href: scala.qmd
+      - text: Markdown
+        href: markdown.qmd
 
   sidebar:
     - id: "start"
@@ -80,20 +88,66 @@ website:
           href: python.qmd
         - section: "Dasar Python"
           contents:
-          - python-1.qmd
-          - python-2.qmd
+          - python.qmd
 
-    - id: "mysql"
-      title: "MySQL"
+    - id: "r"
+      title: "R"
+      style: "docked"
+      collapse-level: 2
+      align: left
+      contents:
+        - text: Pendahuluan
+          href: r.qmd
+        - section: "Dasar R"
+          contents:
+          - r.qmd
+
+    - id: "julia"
+      title: "Julia"
+      style: "docked"
+      collapse-level: 2
+      align: left
+      contents:
+        - text: Pendahuluan
+          href: julia.qmd
+        - section: "Dasar Julia"
+          contents:
+          - julia.qmd
+
+    - id: "sql"
+      title: "SQL"
       style: "docked"
       collapse-level: 2
       contents:
         - text: Pendahuluan
-          href: mysql.qmd
+          href: sql.qmd
         - section: "Dasar MySQL"
           contents:
-          - mysql-1.qmd
-          - mysql-2.qmd
+          - sql.qmd
+
+    - id: "scala"
+      title: "Scala"
+      style: "docked"
+      collapse-level: 2
+      align: left
+      contents:
+        - text: Pendahuluan
+          href: scala.qmd
+        - section: "Dasar Scala"
+          contents:
+          - scala.qmd
+
+    - id: "markdown"
+      title: "Markdown"
+      style: "docked"
+      collapse-level: 2
+      align: left
+      contents:
+        - text: Pendahuluan
+          href: markdown.qmd
+        - section: "Dasar Markdown"
+          contents:
+          - markdown.qmd
 
 format:
   html:
