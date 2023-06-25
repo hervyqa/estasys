@@ -1,9 +1,0 @@
----
-title: "MySQL 2"
----
-
-About this site
-
-```{r}
-1 + 1
-```
