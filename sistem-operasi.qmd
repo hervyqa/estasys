@@ -4,10 +4,22 @@
 
 ## Pengertian sistem operasi
 
+Sistem operasi (*operating system*) adalah perangkat lunak sistem yang mengatur perangkat keras dan perangkat lunak agar dapat menjalankan program komputer di perangkat pengguna. Di dalam sistem operasi, terdapat *kernel/driver* yang menjalankan program inti sistem operasi untuk menghubungkan akses ke disk, memori, tampilan, antarmuka dan perangkat keras lainnya.
+
 ## Jenis sistem operasi
 
-* GNU/Linux
-* macOS
-* Windows
+* GNU/Linux.
+* macOS.
+* Windows.
 
-## Tips memilih sistem operasi
+## Memilih sistem operasi
+
+Ada banyak pertimbangan untuk memilih sistem operasi yang mendukung kebutuhan data science. Penulis menyarankan untuk menggunakan sistem operasi *GNU/Linux*. Alasannya yaitu:
+
+* Dari segi harga, *GNU/Linux* adalah sistem operasi yang bisa didapatkan secara murah dan bahkan gratis. 
+* Keamanan di *GNU/Linux* relatif lebih aman dibandingkan sistem operasi lainnya dan tidak memerlukan antivirus atau sejenisnya.
+* Jika dibandingkan dengan spesifikasi perangkat keras yang sama, sistem operasi *GNU/Linux* memiliki performa yang lebih baik dalam komputasi.
+* Dapat dimodifikasi sesuai kebutuhan pengguna, baik secara tampilan dan konfigurasi sistem.
+* Banyak komunitas *GNU/Linux* yang aktif memberikan dukungan ke pengguna lainnya.
+
+Kekhawatiran sebagai pengguna *GNU/Linux* yaitu masalah di kompatibilitas perangkat lunak pihak ketiga. Beberapa perangkat lunak di industri tidak menyediakan dukungan platform *GNU/Linux*, perangkat lunak ini disebut dengan *proprietary* atau perangkat lunak tidak bebas (*nonfree software*). Hal ini akan memaksa untuk menggunakan sistem operasi lainnya agar program tersebut dapat dijalankan.
