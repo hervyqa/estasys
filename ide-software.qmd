@@ -8,15 +8,40 @@ IDE *(Integrated Development Editor)*
 
 ## Jenis *IDE*
 
-*IDE* berbasis GUI *(Graphical User Interface)* dengan spesifik bahasa pemrograman:
-  
-* rstudio
-* spyder
+### *IDE* spesifik bahasa pemrograman
 
-*IDE* berbasis GUI *(Graphical User Interface)* dengan tujuan umum:
-  
-* vscode
-* vscodium
-* geany
+Dengan adanya *IDE* yang lebih spesifik dengan bahasa pemrograman tertentu, pengguna tidak terlalu mengatur kebutuhan untuk pengolahan data, misalnya memasang addons, konfigurasi *versioning control*, mengatur layout editor yang sesuai dengan alur kerja, plotting visualisasi dan sebagainya. Pengguna hanya memasang beberapa tambahan pustaka yang diperlukan.
 
-## Memilih *IDE*
+#### RStudio Desktop
+
+[RStudio Desktop](https://posit.co/products/open-source/rstudio/) dari *Posit* adalah IDE yang kompatibel dengan bahasa R.
+Fitur RStudio sudah termasuk console, syntax highlight, alat untuk plotting, debugging dan manajemen area kerja (workspace).
+RStudio tersedia versi open source edisi komunitas dan edisi komersil yang keduanya dapat berjalan di sistem operasi *GNU/Linux*, macOS, dan Windows.
+
+#### Spyder IDE
+
+[Spyder](https://spyder-ide.org/) adalah IDE *open source* untuk kebutuhan ilmiah dengan bahasa python serta ditulis juga dengan bahasa python native.
+Spyder ditujukan untuk ilmuan (scientists), engineer dan data analisis.
+Sypder memiliki fitur builtin yang luar biasa seperti pengefitan lanjutan, analisis, debugging, pembuatan profil dari alat pengembangan komprehensif dengan eksplorasi data dan kemampuan visualisasi dari paket pypi.
+
+#### JupyterLab
+
+[JupyterLab](https://jupyter.org/) merupakan projek free software, standar terbuka, dan web servis untuk interaktif semua bahasa pemrograman komputasi. JupyterLab juga merupakan generasi baru untuk mengantikan jupyter notebook (antarmuka klasik) yang dapat dijalankan melalui *web browser*.
+JupyterLab memiliki fitur lebih seperti notebook, terminal, teks editor, file browser, output, dan lain-lain.
+Fiturnya sangat mampu untuk memenuhi alur kerja untuk bidang data sains, komputasi ilmiah, jurnalis komputasi dan machine learning.
+
+### *IDE* untuk tujuan umum
+
+#### Code OSS
+
+Code-OSS merupakan *IDE* yang berupa kode sumber (*source code*) dari repo github [microsoft/vscode](https://github.com/microsoft/vscode) yang berada dibawah standar lisensi [MIT](https://github.com/microsoft/vscode/blob/main/LICENSE.txt). Repositori tersebut dibangun oleh Microsoft dan komunitas secara bersama-sama. **Tidak ada binary** yang didapatkan didalam repositori tersebut, karena hanya menyediakan kode sumber saja. Pengguna perlu mengkompilasinya agar dapat digunakan di sistem operasi yang digunakan. Beberapa *GNU/Linux* sudah menyediakan *binary* sehingga dapat menjalankan program `code` langsung seperti Alpine Linux, Arch, Manjaro, dan Void Linux.
+
+#### Visual Studio Code
+
+[VSCode](https://code.visualstudio.com/) merupakan *IDE* dari repo github [microsoft/vscode](https://github.com/microsoft/vscode). Perbedaannya dengan [Code-OSS](#code-oss) yaitu, VSCode dilapisi elemen Microsoft langsung seperti logo, branding, *telemetry* yang sudah aktif, dan fitur integrasi dengan github. VSCode juga menyediakan binary yang sudah siap untuk dipasang ke sistem operasi tanpa harus dikompilasi terlebih dahulu. Dengan adanya tambahan pihak ketiga tentu VScode dari Microsoft sudah bukan perangkat lunak terbuka lagi.
+
+#### VScodium
+
+#### Geany
+
+## Tips memilih *IDE*
