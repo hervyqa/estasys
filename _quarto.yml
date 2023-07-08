@@ -9,7 +9,7 @@ website:
   title: "EStaSys"
   open-graph:
     locale: id_ID
-    site-name: EStaSys - Belajar data science
+    site-name: EStaSys - Belajar Data Science
     description: |
       EStaSys (Efficience Statistical and Analysis) adalah catatan tentang data
        science terkait apa yang sudah penulis pelajari secara mandiri dari
@@ -156,8 +156,5 @@ format:
       light: flatly
     css: styles.css
     toc: true
-
-execute:
-  freeze: auto
 
 editor: visual
