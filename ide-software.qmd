@@ -1,10 +1,27 @@
 ---
-title: "Integrated Development Editor (IDE)"
+title: "Integrated Development Editor"
 ---
 
 ## Pengertian *IDE*
 
-IDE *(Integrated Development Editor)*
+IDE *(Integrated Development Editor)* adalah perangkat lunak *text editor* yang memudahkan *programer* untuk melakukan pekerjaannya agar lebih mudah. *IDE* meningkatkan produktifitas *programmer* dengan memiliki fitur seperti:
+
+  * Penyunting kode sumber (*source code editor*).
+  * Pembangunan lokal otomatis (*local build automation*).
+  * Program pengujian kode original (*debugger program*).
+  * Kode komplit otomatis (*code autocomplete*).
+  * Penyorotan sintaks (*syntax highlighting*).
+  * Penyelesaian kode cerdas (*intelligent code completion*).
+  * Dukungan pemfaktoran ulang (*refactoring support*).
+  * Dukungan ekstensi dan plugin (*plugins and extensions support*).
+  * Jumlah bahasa yang didukung (*supported languages*).
+
+## Manfaat *IDE*
+
+Hal terpenting alasan untuk menggunakan *IDE* yaitu:
+
+  * **Minimal konfigurasi**. Mengurangi pengaturan secara manual dan mengintegrasikannya setiap bagian dalam perkakas (*tools*) tertentu. Kebanyakan *IDE* sudah terkonfigurasi (*pre-configured*) sehingga pengguna bisa langsung menggunakannya.
+  * **Hemat waktu**. Mengurangi waktu yang dibutuhkan untuk mempelajari banyak jenis perkakas yang berbeda. Dikarenakan banyak fitur yang tersedia, pengguna bisa langsung memilih fitur apa yang dibutuhkan.
 
 ## Jenis *IDE*
 
@@ -45,3 +62,9 @@ Code-OSS merupakan *IDE* yang berupa kode sumber (*source code*) dari repo githu
 #### Geany
 
 ## Tips memilih *IDE*
+
+* **Ketahui kebutuhan terlebih dahulu**.
+* **Tentukan bahasa pemrograman yang digunakan**.
+* **Sistem operasi yang digunakan**.
+* **Fitur otomatis yang diperlukan**.
+* **Kustomisasi untuk penyesuaian**.
