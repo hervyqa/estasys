@@ -4,7 +4,7 @@ title: "Integrated Development Editor"
 
 ## Pengertian *IDE*
 
-IDE *(Integrated Development Editor)* adalah perangkat lunak *text editor* yang memudahkan pengguna untuk melakukan pekerjaan *programming*. *IDE* meningkatkan produktifitas pengguna dengan memiliki fitur seperti:
+IDE *(Integrated Development Editor)* adalah perangkat lunak *text editor* yang memudahkan pengguna untuk melakukan pekerjaan *programming*. *IDE* meningkatkan produktifitas pengguna dengan memiliki fitur antara lain:
 
   * Penyunting kode sumber (*source code editor*).
   * Pembangunan lokal otomatis (*local build automation*).
@@ -18,7 +18,7 @@ IDE *(Integrated Development Editor)* adalah perangkat lunak *text editor* yang 
 
 ## Manfaat *IDE*
 
-Hal terpenting alasan untuk menggunakan *IDE* yaitu:
+Ada banyak manfaat menggunakan *IDE*, tetapi yang menonjol yaitu tentang efisiensi dan waktu pengguna.
 
   * **Minimal konfigurasi**. Mengurangi pengaturan secara manual dan mengintegrasikannya setiap bagian dalam perkakas (*tools*) tertentu. Kebanyakan *IDE* sudah terkonfigurasi (*pre-configured*) sehingga pengguna bisa langsung menggunakannya.
   * **Hemat waktu**. Mengurangi waktu yang dibutuhkan untuk mempelajari banyak jenis perkakas yang berbeda. Dikarenakan banyak fitur yang tersedia, pengguna bisa langsung memilih fitur apa yang dibutuhkan.
@@ -64,6 +64,6 @@ Code-OSS merupakan *IDE* yang berupa kode sumber (*source code*) dari repo githu
 ## Tips memilih *IDE*
 
 * Sesuaikan dengan bahasa pemrograman yang dibutuhkan. *IDE* dengan spesifik bahasa pemrograman lebih baik agar terintegrasi secara langsung, misalnya pemrograman R menggunakan *RStudio*, pemrograman python menggunakan *Spyder IDE* dan sebagainya.
-* Pastikan sudah mendukung di sistem operasi pengguna. Periksa apakah *IDE* tersebut mendukung di sistem operasi yang sedang digunakan. Terkadang meskipun *IDE* tersebut mendukung di sistem operasi namun dukungan pustaka dan ekstensi juga dipertimbangkan.
+* Pastikan *IDE* sudah mendukung di sistem operasi pengguna. Meskipun *IDE* mendukung di sistem operasi, dukungan pustaka dan ekstensi juga perlu dipertimbangkan.
 * Memilih fitur otomatis yang diperlukan. Pengguna disarankan juga untuk membaca bagian fitur yang disediakan di halaman situs resmi *IDE* agar mengetahui kelebihannya dan kekurangannya.
 * Dukungan kustomisasi. Tergantung pengguna, apakah *IDE* memerlukan fitur kustomisasi untuk menyesuaikan tampilan, penataan, area kerja dan profil sesi. [Spyder](#spyder-ide) dan [Rstudio](#rstudio-desktop) mendukung kustomisasi *layout* agar sesuai dengan alur kerja pengguna.
