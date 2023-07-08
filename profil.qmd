@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "Tentang penulis"
 ---
 
-About this site
+**EStaSys** merupakan catatan sederhana untuk mempelajari Data Science.
 
-```{r}
-1 + 1
-```
+Ditulis oleh [Hervy Qurrotul Ainur Rozi](https://hervyqa.id) dan kontributor.
