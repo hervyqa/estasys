@@ -31,44 +31,39 @@ Dengan adanya *IDE* yang lebih spesifik dengan bahasa pemrograman tertentu, peng
 
 #### RStudio Desktop
 
-[RStudio Desktop](https://posit.co/products/open-source/rstudio/) dari *Posit* adalah IDE yang kompatibel dengan bahasa R.
+[RStudio Desktop](https://posit.co/products/open-source/rstudio) dari *Posit* adalah IDE yang kompatibel dengan bahasa R.
 Fitur RStudio sudah termasuk console, syntax highlight, alat untuk plotting, debugging dan manajemen area kerja (workspace).
 RStudio tersedia versi open source edisi komunitas dan edisi komersil yang keduanya dapat berjalan di sistem operasi *GNU/Linux*, macOS, dan Windows.
 
 #### Spyder IDE
 
-[Spyder](https://spyder-ide.org/) adalah IDE *open source* untuk kebutuhan ilmiah dengan bahasa python serta ditulis juga dengan bahasa python native.
+[Spyder](https://spyder-ide.org) adalah IDE *open source* untuk kebutuhan ilmiah dengan bahasa python serta ditulis juga dengan bahasa python native.
 Spyder ditujukan untuk ilmuan (scientists), engineer dan data analisis.
 Sypder memiliki fitur builtin yang luar biasa seperti pengefitan lanjutan, analisis, debugging, pembuatan profil dari alat pengembangan komprehensif dengan eksplorasi data dan kemampuan visualisasi dari paket pypi.
 
 #### JupyterLab
 
-[JupyterLab](https://jupyter.org/) merupakan projek free software, standar terbuka, dan web servis untuk interaktif semua bahasa pemrograman komputasi. JupyterLab juga merupakan generasi baru untuk mengantikan jupyter notebook (antarmuka klasik) yang dapat dijalankan melalui *web browser*.
+[JupyterLab](https://jupyter.org) merupakan projek free software, standar terbuka, dan web servis untuk interaktif semua bahasa pemrograman komputasi. JupyterLab juga merupakan generasi baru untuk mengantikan jupyter notebook (antarmuka klasik) yang dapat dijalankan melalui *web browser*.
 JupyterLab memiliki fitur lebih seperti notebook, terminal, teks editor, file browser, output, dan lain-lain.
 Fiturnya sangat mampu untuk memenuhi alur kerja untuk bidang data sains, komputasi ilmiah, jurnalis komputasi dan machine learning.
 
 ### *IDE* untuk tujuan umum
 
-#### Code OSS
+#### Code-OSS
 
 Code-OSS merupakan *IDE* yang berupa kode sumber (*source code*) dari repo github [microsoft/vscode](https://github.com/microsoft/vscode) yang berada dibawah standar lisensi [MIT](https://github.com/microsoft/vscode/blob/main/LICENSE.txt). Repositori tersebut dibangun oleh Microsoft dan komunitas secara bersama-sama. **Tidak ada binary** yang didapatkan didalam repositori tersebut, karena hanya menyediakan kode sumber saja. Pengguna perlu mengkompilasinya agar dapat digunakan di sistem operasi yang digunakan. Beberapa *GNU/Linux* sudah menyediakan *binary* sehingga dapat menjalankan program `code` langsung seperti Alpine Linux, Arch, Manjaro, dan Void Linux.
 
-#### Visual Studio Code
+#### VSCode
 
-[VSCode](https://code.visualstudio.com/) merupakan *IDE* dari repo github [microsoft/vscode](https://github.com/microsoft/vscode). Perbedaannya dengan [Code-OSS](#code-oss) yaitu, VSCode dilapisi elemen Microsoft langsung seperti logo, branding, *telemetry* yang sudah aktif, dan fitur integrasi dengan github. VSCode juga menyediakan binary yang sudah siap untuk dipasang ke sistem operasi tanpa harus dikompilasi terlebih dahulu. Dengan adanya tambahan pihak ketiga tentu VScode dari Microsoft sudah bukan perangkat lunak terbuka lagi.
+[VSCode](https://code.visualstudio.com) (*Visual Studio Code*) merupakan *IDE* dari repo github [microsoft/vscode](https://github.com/microsoft/vscode). Perbedaannya dengan [Code-OSS](#code-oss) yaitu, VSCode dilapisi elemen Microsoft langsung seperti logo, branding, *telemetry* yang sudah aktif, dan fitur integrasi dengan github. VSCode juga menyediakan binary yang sudah siap untuk dipasang ke sistem operasi tanpa harus dikompilasi terlebih dahulu. Dengan adanya tambahan komponen *nonfree* dari Microsoft tentu VSCode [tidak berlisensikan](https://code.visualstudio.com/license) sebagai perangkat lunak terbuka lagi.
 
-#### VScodium
+#### VSCodium
 
-[TODO]
-
-#### Geany
-
-[TODO]
+[VSCodium](https://vscodium.com) merupakan [Code-OSS](#code-oss) yang dikompilasi menjadi *binary*. Berbeda dengan [VSCode](#vscode), VSCodium menghilangkan komponen Microsoft dan menonaktifkan *telemetry*/pelacak dari Microsoft. *Binary* VSCodium tersedia dalam berbagi platform GNU/Linux, MacOS, Windows dan lain-lain. Penulis menyarankan untuk menggunakan VSCodium daripada menggunakan VSCode.
 
 ## Tips memilih *IDE*
 
-* **Ketahui kebutuhan terlebih dahulu**. Buatlah daftar kebutuhan apa saja yang diperlukan untuk mendukung kebutuhan pengguna.
-* **Tentukan bahasa pemrograman yang digunakan**. *IDE* dengan spesifik bahasa pemrograman lebih baik. Misalnya pemrograman python disarankan menggunakan *Spyder IDE*, pemrograman R disarankan menggunakan *RStudio*, dan sebagainya.
-* **Sistem operasi yang digunakan**. Cek dahulu sebelum menggunakan *IDE*, apakah *IDE* tersebut mendukung di sistem operasi yang sedang digunakan.
-* **Fitur otomatis yang diperlukan**. Apa saja fitur yang dibutuhkan, pengguna disarankan juga untuk membaca bagian fitur yand disediakan di halaman situs resminya.
-* **Kustomisasi untuk penyesuaian**. Tergantung pilihan pengguna, apakah memerlukan kustomisasi untuk menyesuaikan tampilan, penataan dan area kerja.
+* Sesuaikan dengan bahasa pemrograman yang dibutuhkan. *IDE* dengan spesifik bahasa pemrograman lebih baik agar terintegrasi secara langsung, misalnya pemrograman R menggunakan *RStudio*, pemrograman python menggunakan *Spyder IDE* dan sebagainya.
+* Pastikan sudah mendukung di sistem operasi pengguna. Periksa apakah *IDE* tersebut mendukung di sistem operasi yang sedang digunakan. Terkadang meskipun *IDE* tersebut mendukung di sistem operasi namun dukungan pustaka dan ekstensi juga dipertimbangkan.
+* Memilih fitur otomatis yang diperlukan. Pengguna disarankan juga untuk membaca bagian fitur yang disediakan di halaman situs resmi *IDE* agar mengetahui kelebihannya dan kekurangannya.
+* Dukungan kustomisasi. Tergantung pengguna, apakah *IDE* memerlukan fitur kustomisasi untuk menyesuaikan tampilan, penataan, area kerja dan profil sesi. [Spyder](#spyder-ide) dan [Rstudio](#rstudio-desktop) mendukung kustomisasi *layout* agar sesuai dengan alur kerja pengguna.
