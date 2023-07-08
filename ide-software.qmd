@@ -4,7 +4,7 @@ title: "Integrated Development Editor"
 
 ## Pengertian *IDE*
 
-IDE *(Integrated Development Editor)* adalah perangkat lunak *text editor* yang memudahkan *programer* untuk melakukan pekerjaannya agar lebih mudah. *IDE* meningkatkan produktifitas *programmer* dengan memiliki fitur seperti:
+IDE *(Integrated Development Editor)* adalah perangkat lunak *text editor* yang memudahkan pengguna untuk melakukan pekerjaan *programming*. *IDE* meningkatkan produktifitas pengguna dengan memiliki fitur seperti:
 
   * Penyunting kode sumber (*source code editor*).
   * Pembangunan lokal otomatis (*local build automation*).
@@ -59,12 +59,16 @@ Code-OSS merupakan *IDE* yang berupa kode sumber (*source code*) dari repo githu
 
 #### VScodium
 
+[TODO]
+
 #### Geany
+
+[TODO]
 
 ## Tips memilih *IDE*
 
-* **Ketahui kebutuhan terlebih dahulu**.
-* **Tentukan bahasa pemrograman yang digunakan**.
-* **Sistem operasi yang digunakan**.
-* **Fitur otomatis yang diperlukan**.
-* **Kustomisasi untuk penyesuaian**.
+* **Ketahui kebutuhan terlebih dahulu**. Buatlah daftar kebutuhan apa saja yang diperlukan untuk mendukung kebutuhan pengguna.
+* **Tentukan bahasa pemrograman yang digunakan**. *IDE* dengan spesifik bahasa pemrograman lebih baik. Misalnya pemrograman python disarankan menggunakan *Spyder IDE*, pemrograman R disarankan menggunakan *RStudio*, dan sebagainya.
+* **Sistem operasi yang digunakan**. Cek dahulu sebelum menggunakan *IDE*, apakah *IDE* tersebut mendukung di sistem operasi yang sedang digunakan.
+* **Fitur otomatis yang diperlukan**. Apa saja fitur yang dibutuhkan, pengguna disarankan juga untuk membaca bagian fitur yand disediakan di halaman situs resminya.
+* **Kustomisasi untuk penyesuaian**. Tergantung pilihan pengguna, apakah memerlukan kustomisasi untuk menyesuaikan tampilan, penataan dan area kerja.
