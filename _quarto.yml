@@ -23,15 +23,11 @@ website:
     left: |
       © 2023
       <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
-    center:
+    right:
       - text: "Profil"
         href: profil.qmd
       - text: "Lisensi"
         href: lisensi.qmd
-    right:
-      - icon: github
-        href: https://github.com/estasys
-        aria-label: GitHub
 
   navbar:
     background: dark
