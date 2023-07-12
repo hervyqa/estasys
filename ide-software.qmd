@@ -59,7 +59,7 @@ Code-OSS merupakan *IDE* yang berupa kode sumber (*source code*) dari repo githu
 
 #### VSCodium
 
-[VSCodium](https://vscodium.com) merupakan [Code-OSS](#code-oss) yang dikompilasi menjadi *binary*. Berbeda dengan [VSCode](#vscode), VSCodium menghilangkan komponen Microsoft dan menonaktifkan *telemetry*/pelacak dari Microsoft. *Binary* VSCodium tersedia dalam berbagi platform GNU/Linux, MacOS, Windows dan lain-lain. Penulis menyarankan untuk menggunakan VSCodium daripada menggunakan VSCode.
+[VSCodium](https://vscodium.com) merupakan [Code-OSS](#code-oss) yang dikompilasi menjadi *binary*. Berbeda dengan [VSCode](#vscode), VSCodium menghilangkan komponen Microsoft dan menonaktifkan *telemetry*/pelacak dari Microsoft. *Binary* VSCodium tersedia dalam berbagi platform GNU/Linux, MacOS, Windows dan lain-lain. Menjalankan VSCodium di terminal bisa menggunakan perintah `codium`. Penulis menyarankan untuk menggunakan VSCodium daripada menggunakan VSCode.
 
 ## Tips memilih *IDE*
 
