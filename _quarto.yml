@@ -71,7 +71,6 @@ website:
           - sistem-operasi.qmd
           - ide-software.qmd
           - teks-editor.qmd
-          - alternatif-console.qmd
         - section: "Strategi pembelajaran"
           contents:
           - manajemen-waktu.qmd
