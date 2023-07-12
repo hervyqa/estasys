@@ -4,17 +4,21 @@ title: "Text Editor"
 
 ## Pengertian *text editor*
 
-*Text editor* merupakan perangkat lunak yang berfungsi untuk membuka, melihat, dan mengubah isi dari *plain text*, misalnya berkas `.txt`, `.md`, `.py`, `.R`, dan lain-lain. Performa *text editor* lebih ringan dari pada *IDE*, karena *text editor* fiturnya yang lebih sedikit/minimalis.
+*Text editor* merupakan perangkat lunak yang berfungsi untuk membuka, melihat, dan mengubah isi dari *plain text*, misalnya berkas `.txt`, `.md`, `.py`, `.R`, dan lain-lain.
+Performa *text editor* lebih ringan dari pada *IDE*, karena *text editor* fiturnya yang lebih sedikit/minimalis.
 
 ## Jenis *text editor*
 
 ### Notepadqq
 
-[Notepadqq](https://notepadqq.com/s) merupakan *text editor* yang dikhususkan untuk kebutuhan pemrograman. Ada sekitar 100 lebih bahasa yang didukung. [Kode sumber](https://github.com/notepadqq/notepadqq) Notepaddqq dibawah lisensi GPL-3.0. Berkas *binary* yang disediakan umumnya untuk sistem operasi *GNU/Linux*, pengguna dapat mengunduhnya di halaman [unduhan](https://notepadqq.com/wp/download).
+[Notepadqq](https://notepadqq.com/s) merupakan *text editor* yang dikhususkan untuk kebutuhan pemrograman.
+Ada sekitar 100 lebih bahasa yang didukung.
+[Kode sumber](https://github.com/notepadqq/notepadqq) Notepaddqq dibawah lisensi GPL-3.0. Berkas *binary* yang disediakan umumnya untuk sistem operasi *GNU/Linux*, pengguna dapat mengunduhnya di halaman [unduhan](https://notepadqq.com/wp/download).
 
 ### Kate
 
-[Kate](https://kate-editor.org) merupakan perangkat lunak *text editor* tingkat lanjut dari *KDE Apps* yang dibangun menggunakan QT. Kate memiliki integrasi dengan version control severti `git`, LSP (*language server protocol*), dan berbagai plugin *built-in* lainnya.
+[Kate](https://kate-editor.org) merupakan perangkat lunak *text editor* tingkat lanjut dari *KDE Apps* yang dibangun menggunakan QT.
+Kate memiliki integrasi dengan version control severti `git`, LSP (*language server protocol*), dan berbagai plugin *built-in* lainnya.
 
 ### Gedit
 
@@ -22,13 +26,21 @@ title: "Text Editor"
 
 ### Neovim
 
-[Neovim](https://neovim.io) merupakan perangkat lunak *text editor* berbasis terminal yang dikembangkan dari proyek [Vim](https://www.vim.org). Neovim memiliki fitur yang lebih dari vim. Selain itu pengguna dapat menambahkan plugin dari eksternal untuk mendapatkan fitur lainnya. Baik Neovim dan Vim, meskipun sebagai *text editor* tetapi mampu dijadikan sebagai IDE dengan plugin tambahan. Hanya saja membutuhkan masa belajar yang cukup panjang.
+[Neovim](https://neovim.io) merupakan perangkat lunak *text editor* berbasis terminal yang dikembangkan dari proyek [Vim](https://www.vim.org).
+Neovim memiliki fitur yang lebih dari vim. Selain itu pengguna dapat menambahkan plugin dari eksternal untuk mendapatkan fitur lainnya.
+Baik Neovim dan Vim, keduanya sebagai *text editor* tetapi mampu dijadikan sebagai IDE dengan plugin tambahan.
+Hanya saja membutuhkan masa belajar yang cukup panjang.
 
 ### Helix
 
-[Helix Editor](helix-editor.com) merupakan perangkat lunak *text-editor* yang berbasis terminal. Helix memiliki banyak fitur *built-in* seperti seleksi ganda, *LSP*, *tree-sitter*, tampilan tema.
+[Helix Editor](helix-editor.com) merupakan perangkat lunak *text-editor* yang berbasis terminal.
+Helix memiliki banyak fitur *built-in* seperti seleksi ganda, *LSP*, *tree-sitter*, tampilan tema.
 
 ## Memilih *text editor*
 
-* Sesuai lingkungan desktop yang digunakan. Jika menggunakan [KDE Plasma](https://kde.org/plasma-desktop), maka kate adalah pilihan yang tepat sebagai *text editor*. Jika menggunakan [GNOME](https://www.gnome.org) maka disarankan menggunakan *gedit*. Ada banyak *text editor* lain, misalnya *mousepad* untuk [XFCE](https://xfce.org) dan lain-lain.
-* Menggunakan *text editor* berbasis grafis dan terminal. *Programmer* memang seharusnya mampu beradaptasi terminal *text editor*. Penulis menggunakan keduanya, saat ini menggunakan Kate (GUI) dan Helix (CLI) sebagai *text editor* yang utama.
+  * Sesuai lingkungan desktop yang digunakan. Jika menggunakan [KDE Plasma](https://kde.org/plasma-desktop), maka kate adalah pilihan yang tepat sebagai *text editor*.
+  Jika menggunakan [GNOME](https://www.gnome.org) maka disarankan menggunakan *gedit*.
+  Ada banyak *text editor* lain, misalnya *mousepad* untuk [XFCE](https://xfce.org) dan lain-lain.
+  * Menggunakan *text editor* berbasis grafis dan terminal.
+  *Programmer* memang seharusnya mampu beradaptasi terminal *text editor*.
+  Penulis menggunakan keduanya, saat ini menggunakan Kate (GUI) dan Helix (CLI) sebagai *text editor* yang utama.

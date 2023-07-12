@@ -16,12 +16,13 @@ Terkesan membingungkan untuk pemula jika ada bagian tingkatan lanjut yang diseli
 
 ## Batasan tulisan
 
-* Penulis sengaja menyaring perangkat lunak tidak bebas (*nonfree*) untuk tidak dijelaskan mendetail atau tidak dijelaskan sama-sekali. Tujuannya pengguna agar terbiasa menggunakan perangkat lunak terbuka untuk belajar *data science* dan tidak ketergantungan dengan perangkat lunak *nonfree/proprietary*.
-* Penulisan EStaSys difokuskan untuk selalu menggunakan perangkat lunak terbuka (*open source*) agar lebih aman dan mudah didapatkan.
+  * Penulis sengaja menyaring perangkat lunak tidak bebas (*nonfree*) untuk tidak dijelaskan mendetail atau tidak dijelaskan sama-sekali.
+  Tujuannya pengguna agar terbiasa menggunakan perangkat lunak terbuka untuk belajar *data science* dan tidak ketergantungan dengan perangkat lunak *nonfree/proprietary*.
+  * Penulisan EStaSys difokuskan untuk selalu menggunakan perangkat lunak terbuka (*open source*) agar lebih aman dan mudah didapatkan.
 
 ## Harapan penulis?
 
-* Harapan untuk penulis, semoga dengan semakin banyak hal yang ditulis semakin ingat apa yang sudah dipelajari dan menjadi amalan jariyah.
-* Harapan untuk pembaca, semoga pemula yang baru belajar bahasa pemrograman akan terbantu dengan apa yang telah dituliskan.
+  * Harapan untuk penulis, semoga dengan semakin banyak hal yang ditulis semakin ingat apa yang sudah dipelajari dan menjadi amalan jariyah.
+  * Harapan untuk pembaca, semoga pemula yang baru belajar bahasa pemrograman akan terbantu dengan apa yang telah dituliskan.
 
 [penulis]: https://hervyqa.id

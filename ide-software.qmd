@@ -4,7 +4,8 @@ title: "Integrated Development Editor"
 
 ## Pengertian *IDE*
 
-IDE *(Integrated Development Editor)* adalah perangkat lunak *text editor* yang memudahkan pengguna untuk melakukan pekerjaan *programming*. *IDE* meningkatkan produktifitas pengguna dengan memiliki fitur antara lain:
+IDE *(Integrated Development Editor)* adalah perangkat lunak *text editor* yang memudahkan pengguna untuk melakukan pekerjaan *programming*.
+*IDE* meningkatkan produktifitas pengguna dengan memiliki fitur antara lain:
 
   * Penyunting kode sumber (*source code editor*).
   * Pembangunan lokal otomatis (*local build automation*).
@@ -20,14 +21,17 @@ IDE *(Integrated Development Editor)* adalah perangkat lunak *text editor* yang 
 
 Ada banyak manfaat menggunakan *IDE*, tetapi yang menonjol yaitu tentang efisiensi dan waktu pengguna.
 
-  * **Minimal konfigurasi**. Mengurangi pengaturan secara manual dan mengintegrasikannya setiap bagian dalam perkakas (*tools*) tertentu. Kebanyakan *IDE* sudah terkonfigurasi (*pre-configured*) sehingga pengguna bisa langsung menggunakannya.
-  * **Hemat waktu**. Mengurangi waktu yang dibutuhkan untuk mempelajari banyak jenis perkakas yang berbeda. Dikarenakan banyak fitur yang tersedia, pengguna bisa langsung memilih fitur apa yang dibutuhkan.
+  * **Minimal konfigurasi**.
+  Mengurangi pengaturan secara manual dan mengintegrasikannya setiap bagian dalam perkakas (*tools*) tertentu. Kebanyakan *IDE* sudah terkonfigurasi (*pre-configured*) sehingga pengguna bisa langsung menggunakannya.
+  * **Hemat waktu**.
+  Mengurangi waktu yang dibutuhkan untuk mempelajari banyak jenis perkakas yang berbeda. Dikarenakan banyak fitur yang tersedia, pengguna bisa langsung memilih fitur apa yang dibutuhkan.
 
 ## Jenis *IDE*
 
 ### *IDE* spesifik bahasa pemrograman
 
-Dengan adanya *IDE* yang lebih spesifik dengan bahasa pemrograman tertentu, pengguna tidak terlalu mengatur kebutuhan untuk pengolahan data, misalnya memasang addons, konfigurasi *versioning control*, mengatur layout editor yang sesuai dengan alur kerja, plotting visualisasi dan sebagainya. Pengguna hanya memasang beberapa tambahan pustaka yang diperlukan.
+Dengan adanya *IDE* yang lebih spesifik dengan bahasa pemrograman tertentu, pengguna tidak terlalu mengatur kebutuhan untuk pengolahan data, misalnya memasang addons, konfigurasi *versioning control*, mengatur layout editor yang sesuai dengan alur kerja, plotting visualisasi dan sebagainya.
+Pengguna hanya memasang beberapa tambahan pustaka yang diperlukan.
 
 #### RStudio Desktop
 
@@ -51,19 +55,32 @@ Fiturnya sangat mampu untuk memenuhi alur kerja untuk bidang data sains, komputa
 
 #### Code-OSS
 
-Code-OSS merupakan *IDE* yang berupa kode sumber (*source code*) dari repo github [microsoft/vscode](https://github.com/microsoft/vscode) yang berada dibawah standar lisensi [MIT](https://github.com/microsoft/vscode/blob/main/LICENSE.txt). Repositori tersebut dibangun oleh Microsoft dan komunitas secara bersama-sama. **Tidak ada binary** yang didapatkan didalam repositori tersebut, karena hanya menyediakan kode sumber saja. Pengguna perlu mengkompilasinya agar dapat digunakan di sistem operasi yang digunakan. Beberapa *GNU/Linux* sudah menyediakan *binary* sehingga dapat menjalankan program `code` langsung seperti Alpine Linux, Arch, Manjaro, dan Void Linux.
+Code-OSS merupakan *IDE* yang berupa kode sumber (*source code*) dari repo github [microsoft/vscode](https://github.com/microsoft/vscode) yang berada dibawah standar lisensi [MIT](https://github.com/microsoft/vscode/blob/main/LICENSE.txt).
+Repositori tersebut dibangun oleh Microsoft dan komunitas secara bersama-sama. **Tidak ada binary** yang didapatkan didalam repositori tersebut, karena hanya menyediakan kode sumber saja.
+Pengguna perlu mengkompilasinya agar dapat digunakan di sistem operasi yang digunakan.
+Beberapa *GNU/Linux* sudah menyediakan *binary* sehingga dapat menjalankan program `code` langsung seperti Alpine Linux, Arch, Manjaro, dan Void Linux.
 
 #### VSCode
 
-[VSCode](https://code.visualstudio.com) (*Visual Studio Code*) merupakan *IDE* dari repo github [microsoft/vscode](https://github.com/microsoft/vscode). Perbedaannya dengan [Code-OSS](#code-oss) yaitu, VSCode dilapisi elemen Microsoft langsung seperti logo, branding, *telemetry* yang sudah aktif, dan fitur integrasi dengan github. VSCode juga menyediakan binary yang sudah siap untuk dipasang ke sistem operasi tanpa harus dikompilasi terlebih dahulu. Dengan adanya tambahan komponen *nonfree* dari Microsoft tentu VSCode [tidak berlisensikan](https://code.visualstudio.com/license) sebagai perangkat lunak terbuka lagi.
+[VSCode](https://code.visualstudio.com) (*Visual Studio Code*) merupakan *IDE* dari repo github [microsoft/vscode](https://github.com/microsoft/vscode).
+Perbedaannya dengan [Code-OSS](#code-oss) yaitu, VSCode dilapisi elemen Microsoft langsung seperti logo, branding, *telemetry* yang sudah aktif, dan fitur integrasi dengan github.
+VSCode juga menyediakan binary yang sudah siap untuk dipasang ke sistem operasi tanpa harus dikompilasi terlebih dahulu.
+Dengan adanya tambahan komponen *nonfree* dari Microsoft tentu VSCode [tidak berlisensikan](https://code.visualstudio.com/license) sebagai perangkat lunak terbuka lagi.
 
 #### VSCodium
 
-[VSCodium](https://vscodium.com) merupakan [Code-OSS](#code-oss) yang dikompilasi menjadi *binary*. Berbeda dengan [VSCode](#vscode), VSCodium menghilangkan komponen Microsoft dan menonaktifkan *telemetry*/pelacak dari Microsoft. *Binary* VSCodium tersedia dalam berbagi platform GNU/Linux, MacOS, Windows dan lain-lain. Menjalankan VSCodium di terminal bisa menggunakan perintah `codium`. Penulis menyarankan untuk menggunakan VSCodium daripada menggunakan VSCode.
+[VSCodium](https://vscodium.com) merupakan [Code-OSS](#code-oss) yang dikompilasi menjadi *binary*. Berbeda dengan [VSCode](#vscode), VSCodium menghilangkan komponen Microsoft dan menonaktifkan *telemetry*/pelacak dari Microsoft. 
+*Binary* VSCodium tersedia dalam berbagi platform GNU/Linux, MacOS, Windows dan lain-lain.
+Menjalankan VSCodium di terminal bisa menggunakan perintah `codium`.
+Penulis menyarankan untuk menggunakan VSCodium daripada menggunakan VSCode.
 
 ## Tips memilih *IDE*
 
-* Sesuaikan dengan bahasa pemrograman yang dibutuhkan. *IDE* dengan spesifik bahasa pemrograman lebih baik agar terintegrasi secara langsung, misalnya pemrograman R menggunakan *RStudio*, pemrograman python menggunakan *Spyder IDE* dan sebagainya.
-* Pastikan *IDE* sudah mendukung di sistem operasi pengguna. Meskipun *IDE* mendukung di sistem operasi, dukungan pustaka dan ekstensi juga perlu dipertimbangkan.
-* Memilih fitur otomatis yang diperlukan. Pengguna disarankan juga untuk membaca bagian fitur yang disediakan di halaman situs resmi *IDE* agar mengetahui kelebihannya dan kekurangannya.
-* Dukungan kustomisasi. Tergantung pengguna, apakah *IDE* memerlukan fitur kustomisasi untuk menyesuaikan tampilan, penataan, area kerja dan profil sesi. [Spyder](#spyder-ide) dan [Rstudio](#rstudio-desktop) mendukung kustomisasi *layout* agar sesuai dengan alur kerja pengguna.
+  * Sesuaikan dengan bahasa pemrograman yang dibutuhkan.
+  *IDE* dengan spesifik bahasa pemrograman lebih baik agar terintegrasi secara langsung, misalnya pemrograman R menggunakan *RStudio*, pemrograman python menggunakan *Spyder IDE* dan sebagainya.
+  * Pastikan *IDE* sudah mendukung di sistem operasi pengguna.
+  Meskipun *IDE* mendukung di sistem operasi, dukungan pustaka dan ekstensi juga perlu dipertimbangkan.
+  * Memilih fitur otomatis yang diperlukan.
+  Pengguna disarankan juga untuk membaca bagian fitur yang disediakan di halaman situs resmi *IDE* agar mengetahui kelebihannya dan kekurangannya.
+  * Dukungan kustomisasi. Tergantung pengguna, apakah *IDE* memerlukan fitur kustomisasi untuk menyesuaikan tampilan, penataan, area kerja dan profil sesi.
+  [Spyder](#spyder-ide) dan [Rstudio](#rstudio-desktop) mendukung kustomisasi *layout* agar sesuai dengan alur kerja pengguna.

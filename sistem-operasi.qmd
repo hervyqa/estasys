@@ -8,23 +8,27 @@ Sistem operasi (*operating system*) adalah perangkat lunak sistem yang mengatur 
 
 ## Jenis sistem operasi
 
-* *GNU/Linux*.
-* Apple macOS.
-* Microsoft Windows.
+  * *GNU/Linux*.
+  * Apple macOS.
+  * Microsoft Windows.
 
-Ada beberapa sistem operasi lainnya seperti BSD, Redox dan Haiku. Tetapi penulis menyarankan untuk menggunakan sistem operasi di atas yang lebih kompatibel.
+Ada beberapa sistem operasi lainnya seperti BSD, Redox dan Haiku.
+Tetapi penulis menyarankan untuk menggunakan sistem operasi di atas yang lebih kompatibel.
 
 ## Memilih sistem operasi
 
-Ada banyak pertimbangan untuk memilih sistem operasi yang mendukung kebutuhan data science. Penulis menyarankan untuk menggunakan sistem operasi *GNU/Linux*. Alasannya yaitu:
+Ada banyak pertimbangan untuk memilih sistem operasi yang mendukung kebutuhan data science.
+Penulis menyarankan untuk menggunakan sistem operasi *GNU/Linux*. Alasannya yaitu:
 
-* **Harga**, *GNU/Linux* adalah sistem operasi yang bisa didapatkan secara murah dan bahkan gratis.
-* **Keamanan**, *GNU/Linux* relatif lebih aman dibandingkan sistem operasi lainnya dan tidak memerlukan antivirus atau sejenisnya.
-* **Performa**, jika dibandingkan dengan spesifikasi perangkat keras yang sama, sistem operasi *GNU/Linux* memiliki performa yang lebih baik dalam komputasi.
-* **Kustom**, *GNU/Linux* dapat dimodifikasi sesuai kebutuhan pengguna, baik secara tampilan dan konfigurasi sistem.
-* **Komunitas**, banyak relawan dari komunitas *GNU/Linux* yang aktif memberikan dukungan secara cuma-cuma ke pengguna lainnya.
+  * **Harga**, *GNU/Linux* adalah sistem operasi yang bisa didapatkan secara murah dan bahkan gratis.
+  * **Keamanan**, *GNU/Linux* relatif lebih aman dibandingkan sistem operasi lainnya dan tidak memerlukan antivirus atau sejenisnya.
+  * **Performa**, jika dibandingkan dengan spesifikasi perangkat keras yang sama, sistem operasi *GNU/Linux* memiliki performa yang lebih baik dalam komputasi.
+  * **Kustom**, *GNU/Linux* dapat dimodifikasi sesuai kebutuhan pengguna, baik secara tampilan dan konfigurasi sistem.
+  * **Komunitas**, banyak relawan dari komunitas *GNU/Linux* yang aktif memberikan dukungan secara cuma-cuma ke pengguna lainnya.
 
-Kekhawatiran sebagai pengguna *GNU/Linux* yaitu masalah di kompatibilitas perangkat lunak pihak ketiga. Beberapa perangkat lunak di industri tidak menyediakan dukungan platform *GNU/Linux*, perangkat lunak ini disebut dengan *proprietary* atau perangkat lunak tidak bebas (*nonfree software*). Hal ini akan memaksa untuk menggunakan sistem operasi lainnya agar program tersebut dapat dijalankan.
+Kekhawatiran sebagai pengguna *GNU/Linux* yaitu masalah di kompatibilitas perangkat lunak pihak ketiga.
+Beberapa perangkat lunak di industri tidak menyediakan dukungan platform *GNU/Linux*, perangkat lunak ini disebut dengan *proprietary* atau perangkat lunak tidak bebas (*nonfree software*).
+Hal ini akan memaksa untuk menggunakan sistem operasi lainnya agar program tersebut dapat dijalankan.
 
 ## Memilih perangkat lunak pendukung
 

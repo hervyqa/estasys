@@ -6,7 +6,8 @@ Ada berbagai macam bahasa pemrograman yang dapat digunakan untuk pengolahan data
 Python sebagai salah satu bahasa pemrograman *high-level* untuk tujuan umum,
 R dan Julia yang lebih spesifik untuk statistik.
 
-Selain itu, seorang data scientist juga diharuskan untuk mengetahui dasar basis data SQL. Serta mengetahui dasar markdown untuk format penulisan teks.
+Selain itu, seorang data scientist juga diharuskan untuk mengetahui dasar basis data SQL.
+Serta mengetahui dasar markdown untuk format penulisan teks.
 
 Berikut ini adalah kumpulan bahasa pemrograman yang disarankan untuk dipelajari untuk menambah wawasan.
 
@@ -28,13 +29,17 @@ Julia adalah kompetitornya Python, sebab performanya jauh lebih cepat dari pytho
 
 ## SQL
 
-[SQL](sql.qmd) merupakan bahasa pemrograman untuk mengakses data dalam basis data relasional. Hampir semua server basis data menggunakan SQL untuk manajemen data.
+[SQL](sql.qmd) merupakan bahasa pemrograman untuk mengakses data dalam basis data relasional.
+Hampir semua server basis data menggunakan SQL untuk manajemen data.
 Data scientist tentu akan bergulat dengan database, seperti pembuatan database, mengolah, dan menerjemahkan data agar lebih mudah dipahami.
 
 ## Scala
 
-[Scala](scala.qmd) merupakan bahasa pemrograman yang berorientasi pada objek yang aman juga mendukung pemrograman fungsional. Scala berjalan pada platform Java (Java virtual machine) dan kompatibel dengan yang ada program Java.
+[Scala](scala.qmd) merupakan bahasa pemrograman yang berorientasi pada objek yang aman juga mendukung pemrograman fungsional.
+Scala berjalan pada platform Java (Java virtual machine) dan kompatibel dengan yang ada program Java.
 
 ## Markdown
 
-[Markdown](markdown.qmd) adalah sebuah bahasa markup untuk performatan teks. Berguna untuk membuat laporan, dokumentasi dan presentasi. Secara umum markdown digunakan untuk notebook, bookdown, quarto dan keperluan teks lainnya.
+[Markdown](markdown.qmd) adalah sebuah bahasa markup untuk performatan teks.
+Berguna untuk membuat laporan, dokumentasi dan presentasi.
+Secara umum markdown digunakan untuk notebook, bookdown, quarto dan keperluan teks lainnya.
