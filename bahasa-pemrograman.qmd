@@ -8,7 +8,7 @@ R dan Julia yang lebih spesifik untuk statistik.
 
 Selain itu, seorang data scientist juga diharuskan untuk mengetahui dasar basis data SQL. Serta mengetahui dasar markdown untuk format penulisan teks.
 
-Berikut ini adalah kumpulan bahasa pemrograman yang disarankan untuk dipelajari.
+Berikut ini adalah kumpulan bahasa pemrograman yang disarankan untuk dipelajari untuk menambah wawasan.
 
 ## Python
 
