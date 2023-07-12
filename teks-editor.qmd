@@ -4,13 +4,13 @@ title: "Text Editor"
 
 ## Pengertian *text editor*
 
-*Text editor* merupakan perangkat lunak yang berfungsi untuk membuka, melihat, dan mengubah isi dari *plain text*, misalnya berkas `.txt`, `.md`, `.py`, `.R`, dan lain lain-lain.  Umumnya menggunakan *text editor* lebih ringan dari pada membuka perangkat lunak *IDE*, karena *text editor* memiliki fitur yang lebih sedikit atau minimalis.
+*Text editor* merupakan perangkat lunak yang berfungsi untuk membuka, melihat, dan mengubah isi dari *plain text*, misalnya berkas `.txt`, `.md`, `.py`, `.R`, dan lain-lain. Performa *text editor* lebih ringan dari pada *IDE*, karena *text editor* fiturnya yang lebih sedikit/minimalis.
 
 ## Jenis *text editor*
 
 ### Notepadqq
 
-[Notepadqq](https://notepadqq.com/s) merupakan *text editor* yang dikhususkan untuk kebutuhan pemrograman. Ada sekitar 100 lebih bahasa yang didukung. [Kode sumber notepaddqq](https://github.com/notepadqq/notepadqq) dibawah lisensi GPL-3.0. Binary yang disediakan umumnya untuk sistem oprasi GNU/Linux, pengguna dapat menguduhnya di halaman [unduhan](https://notepadqq.com/wp/download).
+[Notepadqq](https://notepadqq.com/s) merupakan *text editor* yang dikhususkan untuk kebutuhan pemrograman. Ada sekitar 100 lebih bahasa yang didukung. [Kode sumber](https://github.com/notepadqq/notepadqq) Notepaddqq dibawah lisensi GPL-3.0. Berkas *binary* yang disediakan umumnya untuk sistem operasi *GNU/Linux*, pengguna dapat mengunduhnya di halaman [unduhan](https://notepadqq.com/wp/download).
 
 ### Kate
 
