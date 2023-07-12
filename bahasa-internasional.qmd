@@ -1,3 +1,12 @@
 ---
 title: "Bahasa internasional"
 ---
+
+### Pentingnya bahasa inggris
+
+Pada umumnya dokumentasi bahasa pemrograman menggunakan bahasa inggris, jika tidak paham menggunakan bahasa inggris belajarlah mulai sekarang.
+Tidak hanya itu, wikipedia, jurnal, buku, dan referensi lainnya juga menggunakan bahasa inggris.
+Bahkan setiap kali mencari solusi jika terjadi *error*, hasil pencarian juga menggunakan bahasa inggris.
+
+Penulis menyarankan untuk membiasakan memahami bahasa inggris meskipun masih pasif.
+Minimal pengguna bisa menggunakan program terjemahan otomatis.
