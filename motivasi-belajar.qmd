@@ -1,9 +1,3 @@
 ---
 title: "Motivasi belajar"
 ---
-
-About this site
-
-```{r}
-1 + 1
-```
