@@ -4,19 +4,24 @@ title: "Belajar Data Science"
 
 ## Apa itu EStaSys?
 
-EStaSys *(Efficience Statistical and Analysis)* adalah catatan rangkuman tentang data science terkait apa yang sudah [penulis] pelajari secara mandiri dari berbagai referensi seperti buku, e-course, webinar, dan bootcamp. Selain itu, EStaSys akan difokuskan untuk selalu menggunakan perangkat lunak yang open source agar lebih aman dan mudah didapatkan.
+EStaSys *(Efficience Statistical and Analysis)* adalah catatan rangkuman tentang data science terkait apa yang sudah [penulis] pelajari secara mandiri dari berbagai referensi seperti buku, e-course, webinar, dan bootcamp.
 
 ## Tujuan penulisan?
 
 Sebenarnya tujuan dari dibuatnya website EStaSys ini untuk melatih dan mempertajam muscle memori otak agar selain mendapatkan referensi dari buku dan video ada cara lain untuk menerapkan apa yang sudah dipelajari sebelumnya, yaitu dengan menulis ulang.
-Semoga dengan semakin banyak hal yang ditulis semakin ingat apa yang sudah dipelajari.
 
 Penulis juga tertarik mencari kurikulum seoptimal mungkin untuk mempelajari bahasa pemrograman khususnya dalam bidang data science dasar dengan mudah untuk pemula.
 Terkadang ketika membaca referensi dan literatur ada urutan bab yang kurang pas, atau timing untuk mempelajari suatu yang tingkat lanjut semestinya diletakkan setelah mempelajari hal dasar terlebih dahulu sebagai rujukannya.
 Terkesan membingungkan untuk pemula jika ada bagian tingkatan lanjut yang diselipkan di bagian awal.
 
+## Batasan tulisan
+
+* Penulis sengaja menyaring perangkat lunak tidak bebas (*nonfree*) untuk tidak dijelaskan mendetail atau tidak dijelaskan sama-sekali. Tujuannya pengguna agar terbiasa menggunakan perangkat lunak terbuka untuk belajar *data science* dan tidak ketergantungan dengan perangkat lunak *nonfree/proprietary*.
+* Penulisan EStaSys difokuskan untuk selalu menggunakan perangkat lunak terbuka (*open source*) agar lebih aman dan mudah didapatkan.
+
 ## Harapan penulis?
 
-Semoga dengan adanya referensi ini, pemula yang baru belajar bahasa pemrograman akan terbantu dengan apa yang telah dituliskan.
+* Harapan untuk penulis, semoga dengan semakin banyak hal yang ditulis semakin ingat apa yang sudah dipelajari dan menjadi amalan jariyah.
+* Harapan untuk pembaca, semoga pemula yang baru belajar bahasa pemrograman akan terbantu dengan apa yang telah dituliskan.
 
 [penulis]: https://hervyqa.id
