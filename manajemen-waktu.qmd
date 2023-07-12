@@ -1,3 +1,32 @@
 ---
 title: "Manajemen waktu"
 ---
+
+### Membuat target belajar
+
+Target belajar tidak perlu tinggi, tetapi konsisten dengan apa yang dipelajari.
+
+### Membuat peta materi belajar
+
+Panduan ini penulis mencoba untuk membuat kurikulum sebagai *programmer* pemula.
+Untuk tingkatan lanjut perlu memilih dan memilah materi mana yang sesuai dengan kebutuhan acuan belajar sehingga jalur pembelajaran menjadi jelas.
+Saat ini belum ada *learning path* khusus, hanya tersedia satu jalur (python > R > SQL > dan seterusnya).
+
+### Aturan imbalan atau sanksi
+
+Tergantung kesepakatan dengan diri sendiri, penghargaan atau hukuman dapat diberikan jika telah menyelesaikan materi yang ditentukan.
+Hal ini melatih tanggung jawab agar sesuai dengan target belajar yang telah ditentukan sebelumnya.
+
+### Tidak menunda aktifitas
+
+Kembali lagi ke individunya masing-masing. Konsisten itu penting.
+
+### Tidak berharap sempurna
+
+Setiap pembelajaran butuh proses yang tidak instan, terkadang perlu mencoba berkali-kali agar lebih memahami materi.
+
+### Lakukan evaluasi secara berkala
+
+Pentingnya evaluasi untuk menganalisa kekurangan apa saja yang perlu diperbaiki.
+Misalnya ada materi atau istilah di bagian sub-bab yang masih belum dimengerti untuk dibaca ulang.
+Terlebih lagi jika ada *syntax* yang tidak sesuai antara materi dengan hasil keluaran saat praktik langsung.
