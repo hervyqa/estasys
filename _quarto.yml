@@ -17,7 +17,7 @@ website:
   page-navigation: true
   twitter-card: true
   favicon: favicon.svg
-  repo-url: https://github.com/estasys/estasys
+  repo-url: https://github.com/hervyqa/estasys
   repo-actions: [edit, issue]
   page-footer:
     left: |
