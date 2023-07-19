@@ -25,4 +25,36 @@ Terkesan membingungkan untuk pemula jika ada bagian tingkatan lanjut yang diseli
   * Harapan untuk penulis, semoga dengan semakin banyak hal yang ditulis semakin ingat apa yang sudah dipelajari dan menjadi amalan jariyah.
   * Harapan untuk pembaca, semoga pemula yang baru belajar bahasa pemrograman akan terbantu dengan apa yang telah dituliskan.
 
+## Pondasi ilmuan data
+
+Sebagai gambaran awal, ada 5 pilar penting sebagai *data scientist* (ilmuan data) yang disarankan untuk dipelajari.
+Meskipun tidak semuanya harus dipelajari, tetapi hal ini bermanfaat untuk menambah wawasan tentang *data scientist*. 
+Serta tergantung dari permintaan dan kebutuhan lembaga/perusahaan.
+
+```{mermaid}
+graph TD
+  dscience{Data science}
+  dscience --> | 1 | coding(Koding)
+  dscience --> | 2 | math(Matematika)
+  dscience --> | 3 | business(Bisnis)
+  dscience --> | 4 | viz(Visualisasi)
+  dscience --> | 5 | legal(Legalitas)
+  coding --> r(R)
+  coding --> py(Python)
+  coding --> jl(Julia)
+  coding --> sql(SQL)
+  coding --> scl(Scala)
+  coding --> md(Markdown)
+  math --> stats(Statistik)
+  math --> aljabr(Aljabar linear)
+  math --> prob(Probabilitas)
+  business --> project(Manajemen proyek)
+  business --> comunication(Komunikasi)
+  business --> present(Presentasi)
+  viz --> plot(Memindahkan data)
+  viz --> story(Kemampuan bercerita)
+  legal --> data-priv(Data privasi)
+  legal --> data-legal(Data legal)
+```
+      
 [penulis]: https://hervyqa.id
