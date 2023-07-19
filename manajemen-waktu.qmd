@@ -6,37 +6,19 @@ title: "Manajemen waktu"
 
 Target rencana belajar tidak perlu tinggi, tetapi konsisten dengan apa yang dipelajari.
 Waktu efektif untuk belajar yaitu 6 bulan atau sekitar 2 jam perhari.
+Sebagai contoh rencana belajar sederhana:
 
-```{mermaid}
-journey
-    section Bulan 1-2
-      Teori Kelas: 3: Individu
-    section Bulan 3
-      Praktek: 3: Individu, Team
-    section Bulan 4
-      Evaluasi: 4: Individu, Team
-    section Bulan 5
-      Portofolio: 5: Individu
-    section Bulan 6
-      Magang & Kontes: 5: Individu, Team
-```
-
+  * Bulan ke-1 & 2: Mempelajari teori melalui kelas, *course* atau *bootcamp*.
+  * Bulan ke-3: Praktek terhadap materi yang telah dipelajari.
+  * Bulan ke-4: Mengevaluasi kembali materi yang belum dimengerti.
+  * Bulan ke-5: Membuat portofolio.
+  * Bulan ke-6: Magang atau Kontes.
+  
 ### Membuat peta materi belajar
 
 Panduan ini penulis mencoba untuk membuat kurikulum sebagai *programmer* pemula.
 Untuk tingkatan lanjut perlu memilih dan memilah materi mana yang sesuai dengan kebutuhan acuan belajar sehingga jalur pembelajaran menjadi jelas.
 Saat ini belum ada *learning path* khusus, hanya tersedia satu jalur (R > Python > SQL > dan seterusnya).
-
-```{mermaid}
-graph TD
-  coding{Koding}
-  coding --> r(R)
-  coding --> py(Python)
-  coding --> jl(Julia)
-  coding --> sql(SQL)
-  coding --> scl(Scala)
-  coding --> md(Markdown)
-```
 
 ### Aturan imbalan atau sanksi
 
