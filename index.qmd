@@ -22,19 +22,18 @@ Terkesan membingungkan untuk pemula jika ada bagian tingkatan lanjut yang diseli
 
 ## Harapan penulis?
 
-  * Harapan untuk penulis, semoga dengan semakin banyak hal yang ditulis semakin ingat apa yang sudah dipelajari dan menjadi amalan jariyah.
+  * Harapan dari penulis, semoga dengan semakin banyak hal yang ditulis semakin ingat apa yang sudah dipelajari dan menjadi amalan jariyah.
   * Harapan untuk pembaca, semoga pemula yang baru belajar bahasa pemrograman akan terbantu dengan apa yang telah dituliskan.
 
-## Dasar pondasi
+## Pondasi dasar
 
 Sebagai gambaran awal, ada 5 pilar penting sebagai *data scientist* (ilmuan data) yang disarankan untuk dipelajari.
-Meskipun tidak semuanya harus dipelajari, tetapi hal ini bermanfaat untuk menambah wawasan tentang *data scientist*. 
-Serta tergantung dari permintaan dan kebutuhan lembaga/perusahaan.
+Meskipun tidak semuanya harus dipelajari, tetapi hal ini bermanfaat untuk menambah wawasan tentang *data scientist*.
 
   * **Matematika**. Beberapa hal yang harus dipelajari yaitu statistik, probabilitas dan aljabar linear.
-  * **Koding**. Sudah suatu keharusan untuk mempelajari bahasa pemrograman seperti R, Python, Julia, SQL dan sebagainya.
-  * **Bisnis**. Tujuan dari *data scientist* yaitu menemukan solusi untuk menentukan dari *stakeholder* sebagai pengambil keputusan.
-  * **Visualisasi**. Berguna untuk memindahkan data dari teks/numerik ke diagram yang lebih mudah dipahami.
-  * **Legalitas**. Perlunya mengetahui legalitas suatu data tentang privasi data dan legal/ilegal dari suatu data.
+  * **Koding**. Sudah suatu keharusan untuk mempelajari bahasa pemrograman seperti R, Python, Julia, SQL dan lain-lain.
+  * **Bisnis**. Tujuan dari *data scientist* yaitu menemukan solusi berdasarkan data untuk menentukan keputusan dari *stakeholder*.
+  * **Visualisasi**. Berguna untuk memindahkan data dari teks/numerik ke visualisasi diagram yang lebih mudah dipahami dengan adanya warna dan bentuk objek.
+  * **Legalitas**. Perlunya mengetahui tentang hukum penggunaan data, baik privasi data maupun legalitas sumber data.
       
 [penulis]: https://hervyqa.id
