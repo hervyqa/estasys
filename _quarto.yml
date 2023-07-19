@@ -30,7 +30,7 @@ website:
         href: lisensi.qmd
 
   navbar:
-    background: dark
+    background: light
     logo: logo.svg
     logo-alt: "EStaSys"
     title: false
@@ -38,10 +38,10 @@ website:
     left:
       - text: Pembukaan
         href: index.qmd
-      - text: Python
-        href: python.qmd
       - text: R
         href: r.qmd
+      - text: Python
+        href: python.qmd
       - text: Julia
         href: julia.qmd
       - text: SQL
@@ -147,8 +147,8 @@ website:
 format:
   html:
     theme:
-      dark: darkly
       light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 
