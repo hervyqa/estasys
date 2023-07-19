@@ -146,6 +146,8 @@ website:
 
 format:
   html:
+    mermaid:
+      theme: default
     theme:
       light: flatly
       dark: darkly
