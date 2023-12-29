@@ -1,0 +1,41 @@
+## Apa itu EStaSys?
+
+EStaSys *(Efficience Statistical and Analysis)* adalah catatan rangkuman tentang data science terkait apa yang sudah [penulis] pelajari secara mandiri dari berbagai referensi seperti buku, e-course, webinar, dan bootcamp.
+
+## Tujuan penulisan?
+
+Sebenarnya tujuan dari dibuatnya website EStaSys ini untuk melatih dan mempertajam muscle memori otak agar selain mendapatkan referensi dari buku dan video ada cara lain untuk menerapkan apa yang sudah dipelajari sebelumnya, yaitu dengan menulis ulang.
+
+Penulis juga tertarik mencari kurikulum seoptimal mungkin untuk mempelajari bahasa pemrograman khususnya dalam bidang data science dasar dengan mudah untuk pemula.
+Terkadang ketika membaca referensi dan literatur ada urutan bab yang kurang pas, atau timing untuk mempelajari suatu yang tingkat lanjut semestinya diletakkan setelah mempelajari hal dasar terlebih dahulu sebagai rujukannya.
+Terkesan membingungkan untuk pemula jika ada bagian tingkatan lanjut yang diselipkan di bagian awal.
+
+## Batasan tulisan
+
+  * Penulis sengaja menyaring perangkat lunak tidak bebas (*nonfree*) untuk tidak dijelaskan mendetail atau tidak dijelaskan sama-sekali.
+  Tujuannya pengguna agar terbiasa menggunakan perangkat lunak terbuka untuk belajar *data science* dan tidak ketergantungan dengan perangkat lunak *nonfree/proprietary*.
+  * Penulisan EStaSys difokuskan untuk selalu menggunakan perangkat lunak terbuka (*open source*) agar lebih aman dan mudah didapatkan.
+
+## Harapan penulis?
+
+  * Harapan dari penulis, semoga dengan semakin banyak hal yang ditulis semakin ingat apa yang sudah dipelajari dan menjadi amalan jariyah.
+  * Harapan untuk pembaca, semoga pemula yang baru belajar bahasa pemrograman akan terbantu dengan apa yang telah dituliskan.
+
+## Pondasi dasar
+
+Sebagai gambaran awal, ada 5 pilar penting sebagai *data scientist* (ilmuan data) yang disarankan untuk dipelajari.
+Meskipun tidak semuanya harus dipelajari, tetapi hal ini bermanfaat untuk menambah wawasan tentang *data scientist*.
+
+  * **Matematika**. Beberapa hal yang harus dipelajari yaitu statistik, probabilitas dan aljabar linear.
+  * **Koding**. Sudah suatu keharusan untuk mempelajari bahasa pemrograman seperti R, Python, Julia, SQL dan lain-lain.
+  * **Bisnis**. Tujuan dari *data scientist* yaitu menemukan solusi berdasarkan data untuk menentukan keputusan dari *stakeholder*.
+  * **Visualisasi**. Berguna untuk memindahkan data dari teks/numerik ke visualisasi diagram yang lebih mudah dipahami dengan adanya warna dan bentuk objek.
+  * **Legalitas**. Perlunya mengetahui tentang hukum penggunaan data, baik privasi data maupun legalitas sumber data.
+      
+## License
+
+[MIT License] - Copyright (c) 2023 Hervy Qurrotul Ainur Rozi
+
+[penulis]: https://hervyqa.id
+[MIT License]: LICENSE.md
+
