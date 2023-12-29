@@ -13,33 +13,33 @@ Berikut ini adalah kumpulan bahasa pemrograman yang disarankan untuk dipelajari 
 
 ## Python
 
-[Python](python.qmd) adalah salah satu bahasa pemrograman yang paling umum digunakan dalam pengolahan data.
+[Python](../pemrograman/python.qmd) adalah salah satu bahasa pemrograman yang paling umum digunakan dalam pengolahan data.
 Hampir disemua bidang data, sangat dibutuhkan keahlian pemrograman python sebagai prasyarat dalam kemampuan mengoding.
 
 ## R
 
-[R](r.qmd) lebih dikenal sebagai bahasa pemrograman untuk statistika dan visualisasi grafis.
+[R](../pemrograman/r.qmd) lebih dikenal sebagai bahasa pemrograman untuk statistika dan visualisasi grafis.
 Bahasa pemrograman R telah menjadi standar di antara statistikawan untuk pengembangan perangkat lunak statistika, serta digunakan secara luas untuk pengembangan perangkat lunak statistika dan analisis data.
 
 ## Julia
 
-[Julia](julia.qmd) adalah salah satu bahasa yang digunakan untuk menganalisis numerik dan visualisasi data secara efisien.
+[Julia](../pemrograman/julia.qmd) adalah salah satu bahasa yang digunakan untuk menganalisis numerik dan visualisasi data secara efisien.
 Sama halnya dengan Python, Julia termasuk bahasa high-level yang syntaxnya tergolong mudah untuk pemula.
 Julia adalah kompetitornya Python, sebab performanya jauh lebih cepat dari python.
 
 ## SQL
 
-[SQL](sql.qmd) merupakan bahasa pemrograman untuk mengakses data dalam basis data relasional.
+[SQL](../pemrograman/sql.qmd) merupakan bahasa pemrograman untuk mengakses data dalam basis data relasional.
 Hampir semua server basis data menggunakan SQL untuk manajemen data.
 Data scientist tentu akan bergulat dengan database, seperti pembuatan database, mengolah, dan menerjemahkan data agar lebih mudah dipahami.
 
 ## Scala
 
-[Scala](scala.qmd) merupakan bahasa pemrograman yang berorientasi pada objek yang aman juga mendukung pemrograman fungsional.
+[Scala](../pemrograman/scala.qmd) merupakan bahasa pemrograman yang berorientasi pada objek yang aman juga mendukung pemrograman fungsional.
 Scala berjalan pada platform Java (Java virtual machine) dan kompatibel dengan yang ada program Java.
 
 ## Markdown
 
-[Markdown](markdown.qmd) adalah sebuah bahasa markup untuk performatan teks.
+[Markdown](../pemrograman/markdown.qmd) adalah sebuah bahasa markup untuk performatan teks.
 Berguna untuk membuat laporan, dokumentasi dan presentasi.
 Secara umum markdown digunakan untuk notebook, bookdown, quarto dan keperluan teks lainnya.

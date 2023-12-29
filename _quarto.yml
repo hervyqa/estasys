@@ -39,17 +39,17 @@ website:
       - text: Pembukaan
         href: index.qmd
       - text: R
-        href: r.qmd
+        href: pemrograman/r.qmd
       - text: Python
-        href: python.qmd
+        href: pemrograman/python.qmd
       - text: Julia
-        href: julia.qmd
+        href: pemrograman/julia.qmd
       - text: SQL
-        href: sql.qmd
+        href: pemrograman/sql.qmd
       - text: Scala
-        href: scala.qmd
+        href: pemrograman/scala.qmd
       - text: Markdown
-        href: markdown.qmd
+        href: pemrograman/markdown.qmd
 
   sidebar:
     - id: "start"
@@ -62,16 +62,16 @@ website:
           href: index.qmd
         - section: "Persiapan teknis"
           contents:
-          - spesifikasi-komputer.qmd
-          - bahasa-pemrograman.qmd
-          - sistem-operasi.qmd
-          - ide-software.qmd
-          - teks-editor.qmd
+          - persiapan-teknis/spesifikasi-komputer.qmd
+          - persiapan-teknis/bahasa-pemrograman.qmd
+          - persiapan-teknis/sistem-operasi.qmd
+          - persiapan-teknis/ide-software.qmd
+          - persiapan-teknis/teks-editor.qmd
         - section: "Strategi pembelajaran"
           contents:
-          - manajemen-waktu.qmd
-          - motivasi-belajar.qmd
-          - bahasa-internasional.qmd
+          - strategi-pembelajaran/manajemen-waktu.qmd
+          - strategi-pembelajaran/motivasi-belajar.qmd
+          - strategi-pembelajaran/bahasa-internasional.qmd
 
     - id: "python"
       title: "Python"
@@ -80,10 +80,10 @@ website:
       align: left
       contents:
         - text: Pendahuluan
-          href: python.qmd
+          href: pemrograman/python.qmd
         - section: "Dasar Python"
           contents:
-          - python.qmd
+          - pemrograman/python.qmd
 
     - id: "r"
       title: "R"
@@ -92,10 +92,10 @@ website:
       align: left
       contents:
         - text: Pendahuluan
-          href: r.qmd
+          href: pemrograman/r.qmd
         - section: "Dasar R"
           contents:
-          - r.qmd
+          - pemrograman/r.qmd
 
     - id: "julia"
       title: "Julia"
@@ -104,10 +104,10 @@ website:
       align: left
       contents:
         - text: Pendahuluan
-          href: julia.qmd
+          href: pemrograman/julia.qmd
         - section: "Dasar Julia"
           contents:
-          - julia.qmd
+          - pemrograman/julia.qmd
 
     - id: "sql"
       title: "SQL"
@@ -115,10 +115,10 @@ website:
       collapse-level: 2
       contents:
         - text: Pendahuluan
-          href: sql.qmd
+          href: pemrograman/sql.qmd
         - section: "Dasar MySQL"
           contents:
-          - sql.qmd
+          - pemrograman/sql.qmd
 
     - id: "scala"
       title: "Scala"
@@ -127,10 +127,10 @@ website:
       align: left
       contents:
         - text: Pendahuluan
-          href: scala.qmd
+          href: pemrograman/scala.qmd
         - section: "Dasar Scala"
           contents:
-          - scala.qmd
+          - pemrograman/scala.qmd
 
     - id: "markdown"
       title: "Markdown"
@@ -139,10 +139,10 @@ website:
       align: left
       contents:
         - text: Pendahuluan
-          href: markdown.qmd
+          href: pemrograman/markdown.qmd
         - section: "Dasar Markdown"
           contents:
-          - markdown.qmd
+          - pemrograman/markdown.qmd
 
 format:
   html:
